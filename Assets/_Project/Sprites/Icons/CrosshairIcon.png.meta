@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 58d41c3de2bdbde4fbb7c0c092b603f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3638455722648943028
+    second: CrosshairIcon_0
+  - first:
+      213: 1545844921283689040
+    second: CrosshairIcon_1
+  - first:
+      213: -1646481588333804144
+    second: CrosshairIcon_2
+  - first:
+      213: -8876106999538011115
+    second: CrosshairIcon_3
+  - first:
+      213: -3937474285666085606
+    second: CrosshairIcon_4
+  - first:
+      213: 1399558286547466947
+    second: CrosshairIcon_5
+  - first:
+      213: -6891342076678956378
+    second: CrosshairIcon_6
+  - first:
+      213: -848322682374024794
+    second: CrosshairIcon_7
+  - first:
+      213: -7207275989352857229
+    second: CrosshairIcon_8
+  - first:
+      213: -7718483603946578292
+    second: CrosshairIcon_9
+  - first:
+      213: 3339161067499083307
+    second: CrosshairIcon_10
+  - first:
+      213: -807010362124548367
+    second: CrosshairIcon_11
+  - first:
+      213: 1783425591390839478
+    second: CrosshairIcon_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrosshairIcon_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 607
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e08577117bac4b89cb534dcf175aa
+      internalID: 956705371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5152d86a27a8066419bd6958cb1e9e9d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrosshairIcon_0: 956705371
+      CrosshairIcon_1: 460280629
+      CrosshairIcon_10: 186834042
+      CrosshairIcon_11: 1436678501
+      CrosshairIcon_12: -8310340
+      CrosshairIcon_2: -856556753
+      CrosshairIcon_3: -111995791
+      CrosshairIcon_4: -1644981746
+      CrosshairIcon_5: -2130029195
+      CrosshairIcon_6: -410220445
+      CrosshairIcon_7: -1402882879
+      CrosshairIcon_8: 1592897601
+      CrosshairIcon_9: -1486999882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

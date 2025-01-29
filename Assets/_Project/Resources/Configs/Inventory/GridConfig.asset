@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f14808505d4877a500e11884d20e00, type: 3}
+  m_Name: GridConfig
+  m_EditorClassIdentifier: 
+  _size: {x: 6, y: 5}
+  _startItems:
+  - _position: {x: 1, y: 1}
+    _itemConfig: {fileID: 11400000, guid: 4138d0b1c753db14792c800969aed683, type: 2}
+  - _position: {x: 2, y: 1}
+    _itemConfig: {fileID: 11400000, guid: c9965e5c00e98be40a6ec2d1b91e6388, type: 2}
+  - _position: {x: 4, y: 1}
+    _itemConfig: {fileID: 11400000, guid: a31e1ead965492d47bafb9bc4f681810, type: 2}
+  - _position: {x: 6, y: 1}
+    _itemConfig: {fileID: 11400000, guid: f4289c4c763bc704186404fd0a52651d, type: 2}
+  - _position: {x: 1, y: 2}
+    _itemConfig: {fileID: 11400000, guid: 4050715540ba82a46a8fb44186f38f1b, type: 2}
+  - _position: {x: 2, y: 2}
+    _itemConfig: {fileID: 11400000, guid: 7450650726349d64cbebcc5b5d382c35, type: 2}
+  - _position: {x: 6, y: 2}
+    _itemConfig: {fileID: 11400000, guid: 77951315067920c44b2b8903ac94b068, type: 2}
+  _useStartItems: 0
