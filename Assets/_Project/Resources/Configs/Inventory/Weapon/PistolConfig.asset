@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b1a9046e73f4fc6804f2c53137fa935, type: 3}
   m_Name: PistolConfig
   m_EditorClassIdentifier: 
-  _damage: 50
+  _damage: 5
   _ammoPerShoot: 1
   _ammoTypeConfig: {fileID: 11400000, guid: f4289c4c763bc704186404fd0a52651d, type: 2}
